@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** AWS, CSS, Flask, HTML, Python
+- **Detected Technologies:** Python, Flask, MySQL
 - **GitHub Topics:** None
 
 ---
